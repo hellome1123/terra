@@ -1,12 +1,3 @@
-'''
-By Adam Benn
-Contact at: adambenn22@gmail.com
-Game Title: TBA for now its "Game 2"
-
-Dear Future Adam,
-
-    If you ever successfully document this program, please go to the hospital, because in the event that documentation
-is complete I suspect your hands will be shattered and your ears bleeding.'''
 
 import sys,random, time, math, os, os.path
 import pygame
